@@ -1,0 +1,7 @@
+[Activity]
+name = nutri
+service_name = org.laptop.NutritionActivity
+class = nutri3.NutritionActivity
+icon = icon
+activity_version = 1
+show_launcher = yes
